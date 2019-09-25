@@ -1,2 +1,2 @@
 # Codewars
-[Follow me!] (https://www.codewars.com/users/Pedrobusou)
+[Follow me!](https://www.codewars.com/users/Pedrobusou)
